@@ -1,6 +1,6 @@
 # Monstercat Halloween Stencils
 
-Make a Monstercat pumpkin! Download these Monstercat Halloween Stencils and bring your pumpkin to life!
+Make a Monstercat O’ Lantern! Download these Monstercat Halloween Stencils and bring your pumpkin to life!
 
 ## Instructions
 1. Print out the desired stencil.
@@ -11,25 +11,20 @@ Make a Monstercat pumpkin! Download these Monstercat Halloween Stencils and brin
 	* If you need more assistance with using stencils - [refer to this video](https://www.youtube.com/watch?v=GtKPd59lst4).
 5. Start carefully cutting out the pieces *marked in grey*.
 6. Finish your pumpkin and bring it to life by placing a light inside.
-7. Take a photo and send it to @Monstercat with the hashtag #MonstercatHalloween
+7. Take a photo or video and tag @Monstercat on Twitter or Instagram with the hashtag #MonstercatHalloween
 
 ## Files
 
-![Monstercat Mouth](https://monstercat.com/halloween/mcat-pumpk-mouth.jpg?v=3)
+![Monstercat Mouth](https://assets.monstercat.com/halloween/MonstercatPumpkinStencils-Mouth.png?image_width=264)
 
-[Download the Monstercat Mouth stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Mouth.pdf)
-
-
-![Monstercat Logo](https://monstercat.com/halloween/mcat-pumpk-logo.jpg?v=3)
-
-[Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Logo.pdf)
+[Download the Monstercat Mouth stencil PDF here.](https://assets.monstercat.com/halloween/MonstercatPumpkinStencils-Mouth.pdf)
 
 
-![Uncaged Vol. 1](https://monstercat.com/halloween/mcat-pumpk-vol-1.jpg?v=3)
+![Monstercat Logo](https://assets.monstercat.com/halloween/MonstercatPumpkinStencils-Cat.png?image_width=264)
 
-[Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Uncaged-1.pdf)
+[Download the Monstercat Logo stencil PDF here.](https://assets.monstercat.com/halloween/MonstercatPumpkinStencils-Cat.pdf)
 
 
-![Uncaged Vol. 2](https://monstercat.com/halloween/mcat-pumpk-vol-2.jpg?v=3)
+![Monsterdog](https://assets.monstercat.com/halloween/MonstercatPumpkinStencils-Dog.png?image_width=264)
 
-[Download the Monstercat Logo stencil PDF here.](https://monstercat.com/halloween/stencils/Monstercat-Halloween-Stencil-Uncaged-2.pdf)
+[Download the Monsterdog stencil PDF here.](https://assets.monstercat.com/halloween/MonstercatPumpkinStencils-Dog.pdf)
