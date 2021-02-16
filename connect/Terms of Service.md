@@ -196,8 +196,6 @@ We reserve the right, at our sole and absolute discretion, to update, change or 
 
 Questions about the Terms of Service should be sent to us at [support@monstercat.com](mailto:support@monstercat.com).
 
-Monstercat Inc.
-380 Railway Street
+Monstercat Inc.  
+380 Railway Street  
 Vancouver BC V6A4E3
-
-
