@@ -1,6 +1,6 @@
 # TERMS OF SERVICE
 
-Updated February 15, 2021
+**Updated February 15, 2021**
 
 ## OVERVIEW
 
@@ -10,7 +10,7 @@ By visiting our website, using our website, using any services on the website of
 
 Please read these Terms of Service carefully before accessing and/or using our website. By accessing or using any part of the Monstercat website, whether you have a registered account, are a Subscriber (as defined below), or are an unregistered user, you agree to be bound by these Terms of Service. If you do not agree to be bound by the Terms of Service, you are not permitted to access or use the Service. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.
 
-For clarity, any new features, components or tools which are added to the Monstercat shop are also subject to the Terms of Service.
+For clarity, any new features, components or tools which are added to the [Monstercat shop](https://shop.monstercat.com/) are also subject to the Terms of Service.
 
 You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.
 
@@ -36,7 +36,7 @@ The “Subscription Service” (aka “Gold” or “Monstercat Gold”) is an o
 
 ### B) COMMERCIAL LICENSING
 
-The Subscription Service is for the use of Subscription Music for non-commercial purposes only.  If you would like to use any Monstercat music for commercial purposes, please visit [https://www.monstercat.com/sync](https://www.monstercat.com/sync) or email [licensing@monstercat.com](mailto:licensing@monstercat.com). Monstercat is committed to licensing our music on competitive terms on par with music industry standards and we review and respond to all licensing inquires as soon as possible.
+The Subscription Service is for the use of Subscription Music for non-commercial purposes only.  If you would like to use any Monstercat music for commercial purposes, please visit [https://www.monstercat.com/sync](/sync) or email [licensing@monstercat.com](mailto:licensing@monstercat.com). Monstercat is committed to licensing our music on competitive terms on par with music industry standards and we review and respond to all licensing inquires as soon as possible.
 
 ### C) ACCESS
 
@@ -123,9 +123,9 @@ You agree that your comments will not violate any right of any third-party, incl
 
 ## SECTION 10 - PERSONAL INFORMATION
 
-In addition to these Terms, our Privacy Policy governs your access to and use of the Service.  You agree that by using the Service you consent to the collection, use, and sharing of such information (as set forth in the Privacy Policy), including the transfer of this information within or to Canada, the United States, and/or other countries for storage, processing and use by Monstercat, its affiliates, and its third-party business associates.
+In addition to these Terms, our [Privacy Policy](/privacy-policy) governs your access to and use of the Service.  You agree that by using the Service you consent to the collection, use, and sharing of such information (as set forth in the Privacy Policy), including the transfer of this information within or to Canada, the United States, and/or other countries for storage, processing and use by Monstercat, its affiliates, and its third-party business associates.
 
-Your submission and our processing of personal data and information about you, whether through our website, the store, via the Subscription Service or otherwise is governed by and done in accordance with our Privacy Policy.
+Your submission and our processing of personal data and information about you, whether through our website, the store, via the Subscription Service or otherwise is governed by and done in accordance with our [Privacy Policy](/privacy-policy).
 
 ## SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS
 
@@ -135,7 +135,7 @@ We undertake no obligation to update, amend or clarify information in the Servic
 
 ## SECTION 12 - PROHIBITED USES
 
-In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the website or its content (including but not limited to the Subscription Music): (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet; (l) to produce any content that advertises the use of liquor, tobacco, weapons, firearms, illicit drugs, violence, harassment, sexually explicit content, and items or acts of a similar nature; (m) is in violation of the Monstercat Code of Ethics; or (n) to commit any acts or create any content that are, in Monstercat’s sole and absolute discretion, of an overly political nature and/or would be considered by a reasonable person to be inappropriate. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
+In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the website or its content (including but not limited to the Subscription Music): (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet; (l) to produce any content that advertises the use of liquor, tobacco, weapons, firearms, illicit drugs, violence, harassment, sexually explicit content, and items or acts of a similar nature; (m) is in violation of the [Monstercat Code of Ethics](/code-of-ethics); or (n) to commit any acts or create any content that are, in Monstercat’s sole and absolute discretion, of an overly political nature and/or would be considered by a reasonable person to be inappropriate. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
 
 ## SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
 
